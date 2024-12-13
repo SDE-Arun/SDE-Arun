@@ -8,7 +8,7 @@
 - **NestJS**, **TypeScript** & **JavaScript** 🌐 for efficient backend solutions
 - **AWS** & **DynamoDB** ☁️ for powerful, serverless applications
 - **GraphQL** 📈 for optimized, modern data fetching  
-- Specializing in **payment gateway integrations** 💳 (such as **Telr**) and **user activity tracking** 👥  
+- Specializing in **payment gateway integrations** 💳 (such as **Juspay/Telr**) and **user activity tracking** 👥  
 
 🔹 **Current Focus**  
 💡 Optimizing and scaling projects in:
