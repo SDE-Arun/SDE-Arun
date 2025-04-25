@@ -18,7 +18,7 @@
 
 🔹 **Skills & Tools**  
 💻 **Languages**: TypeScript, JavaScript, Python  
-🛠️ **Frameworks/Libs**: NestJS, React, AWS AppSync  
+🛠️ **Frameworks/Libs**: NestJS, ReactJs, AWS AppSync  
 📈 **Data & Analytics**: AWS DynamoDB, Data Analysis & Visualization  
 🔧 **Tools**: Git, Yarn, WebEngage for notifications, and React-Select for custom UI components
 
